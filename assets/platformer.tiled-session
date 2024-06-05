@@ -8,6 +8,20 @@
         "."
     ],
     "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "platformer.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 148.99999999999994,
+                "y": 172.66666666666669
+            }
+        },
+        "platformer.tmj#Tiles": {
+            "scaleInDock": 1
+        },
         "platformer.tmx": {
             "scale": 1.5,
             "selectedLayer": 1,
@@ -25,7 +39,7 @@
     "last.imagePath": "C:/Users/benhe/OneDrive/Desktop/CMPM120/CMPM120-Platformer/assets",
     "map.height": 25,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
-    "map.lastUsedFormat": "tmx",
+    "map.lastUsedFormat": "json",
     "map.tileHeight": 18,
     "map.tileWidth": 18,
     "map.width": 135,
@@ -35,6 +49,7 @@
     "project": "platformer.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "platformer.tmj",
         "platformer.tmx"
     ],
     "tileset.embedInMap": true,
